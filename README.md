@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @YaanMark
+- 👀 I’m interested in be a programer
+- 🌱 I’m currently learning JavaScript
