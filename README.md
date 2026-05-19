@@ -1,32 +1,126 @@
-## I'm Yan Marques
+# 👨‍💻 Yan Marques
 
-- 👋 Hi, I’m @YaanMark
-- 👀 I’m interested in be a programmer
-- 🌱 I’m currently learning JavaScript and HTML
+**`Desenvolvedor FullStack`**
 
-##
+Olá! Me chamo Yan Marques, tenho 21 anos e sou estudante de Sistemas de Informação. Apaixonado por tecnologia desde cedo, encontrei na área de TI não apenas uma carreira, mas um estilo de vida. Estou constantemente em busca de aprender, evoluir e transformar ideias em soluções reais através do código. Este espaço reflete minha jornada de crescimento cada repositório é um passo a mais na construção do profissional que quero me tornar. Aberto a colaborações, novos desafios e conexões que agreguem valor mútuo. Vamos construir algo incrível juntos! 🚀
 
-<a href="https://github.com/yaanmark">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yaanmark&show_icons=true&theme=synthwave" />
-</a>
-<a href="https://github.com/yaanmark">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaanmark&theme=synthwave&layout=compact&langs_count=8&card_width=320" />
-</a>
+<p align="left">
+    <a href="github.com/YaanMark?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/YaanMark?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="github.com/YaanMark?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/YaanMark?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
-##
-<div style="display: inline-block;"><br>
-    <img align="center" alt="Yaan-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"> -
-    <img align="center" alt="Yaan-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"> -
-    <img align="center" alt="Yaan-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"> -
-    <img align="center" alt="Yaan-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"> -
-    <img align="center" alt="Yaan-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-    <img src="https://cdn.discordapp.com/attachments/1004543946002804746/1272925770582589552/ezgif.com-speed.gif?ex=66bcc001&is=66bb6e81&hm=248e4acac3c2cb0049b0f436e9f1bd6bb8b4bbd093612990fd2e134232545f38&" alt="YaanMark-gif" align="right" height="150" width="150">
-</div>
+---
 
-##
+### 🤖 Linguagens e Tecnologias
 
-<div>
-    <a href="https://www.instagram.com/yaanmark" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
-    <a href="https://www.linkedin.com/in/yaanmark/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="mailto:yandumarques@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" ></a>
-</div>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<br/>
+<br/>
+
+
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YaanMark/YaanMark/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YaanMark/YaanMark/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YaanMark/YaanMark/output/github-contribution-grid-snake.svg">
+</picture>
