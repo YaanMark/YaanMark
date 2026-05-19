@@ -116,8 +116,15 @@ Olá! Me chamo Yan Marques, tenho 21 anos e sou estudante de Sistemas de Informa
 
 <br/>
 <br/>
+<br/>
+<br/>
 
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
+<br/>
+<br/>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YaanMark/YaanMark/output/github-contribution-grid-snake-dark.svg">
