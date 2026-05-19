@@ -121,7 +121,6 @@ Olá! Me chamo Yan Marques, tenho 21 anos e sou estudante de Sistemas de Informa
 
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 <br/>
 <br/>
