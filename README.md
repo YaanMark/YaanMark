@@ -11,14 +11,14 @@ Hi! I'm Yan Marques, a 21-year-old Information Systems student. Passionate about
         <img 
             alt="Total stars" 
             title="GitHub stars" 
-            src="https://custom-icon-badges.demolab.com/github/stars/YaanMark?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/YaanMark?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
         />
     </a>
     <a href="github.com/YaanMark?tab=followers">
         <img 
             alt="Followers" 
             title="Follow me" 
-            src="https://custom-icon-badges.demolab.com/github/followers/YaanMark?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/YaanMark?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a>
 </p>
