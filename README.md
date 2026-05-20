@@ -4,20 +4,20 @@
   <h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=633F9F&width=435&lines=I'm+a+Full+Stack+Web+Developer" alt="Typing SVG" /></h2>
 </p>
 
-Olá! Me chamo Yan Marques, tenho 21 anos e sou estudante de Sistemas de Informação. Apaixonado por tecnologia desde cedo, encontrei na área de TI não apenas uma carreira, mas um estilo de vida. Estou constantemente em busca de aprender, evoluir e transformar ideias em soluções reais através do código. Este espaço reflete minha jornada de crescimento cada repositório é um passo a mais na construção do profissional que quero me tornar. Aberto a colaborações, novos desafios e conexões que agreguem valor mútuo. Vamos construir algo incrível juntos! 🚀
+Hi! I'm Yan Marques, a 21-year-old Information Systems student. Passionate about tech from an early age, I've found that IT is more than just a career for me—it's a lifestyle. I'm constantly striving to learn, grow, and turn ideas into real-world solutions through code. This space reflects my journey of growth; every repository is another step toward becoming the professional I aspire to be. I'm always open to collaborations, new challenges, and mutually rewarding connections. Let's build something amazing together! 🚀
 
 <p align="left">
     <a href="github.com/YaanMark?tab=repositories&sort=stargazers">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
+            alt="Total stars" 
+            title="GitHub stars" 
             src="https://custom-icon-badges.demolab.com/github/stars/YaanMark?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="github.com/YaanMark?tab=followers">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
+            alt="Followers" 
+            title="Follow me" 
             src="https://custom-icon-badges.demolab.com/github/followers/YaanMark?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
@@ -25,7 +25,7 @@ Olá! Me chamo Yan Marques, tenho 21 anos e sou estudante de Sistemas de Informa
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Stacks
 
 <img 
     align="left" 
