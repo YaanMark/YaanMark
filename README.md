@@ -1,7 +1,7 @@
 # 👨‍💻 Yan Marques
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Hello+Geek;I'm+a+Full+Stack+Web+Developer; alt="Typing SVG" /></a>
+  <h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=633F9F&width=435&lines=I'm+a+Full+Stack+Web+Developer" alt="Typing SVG" /></h2>
 </p>
 
 Olá! Me chamo Yan Marques, tenho 21 anos e sou estudante de Sistemas de Informação. Apaixonado por tecnologia desde cedo, encontrei na área de TI não apenas uma carreira, mas um estilo de vida. Estou constantemente em busca de aprender, evoluir e transformar ideias em soluções reais através do código. Este espaço reflete minha jornada de crescimento cada repositório é um passo a mais na construção do profissional que quero me tornar. Aberto a colaborações, novos desafios e conexões que agreguem valor mútuo. Vamos construir algo incrível juntos! 🚀
