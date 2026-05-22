@@ -116,13 +116,76 @@ Hi! I'm Yan Marques, a 21-year-old Information Systems student. Passionate about
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<br/>
-<br/>
+
+
 <br/>
 <br/>
 
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+    <a href="https://www.instagram.com/yaanmark">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+    <a href="https://www.linkedin.com/in/yaanmark">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="mailto:yandumarques@gmail.com">
+        <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| 💼 Project | 📖 Description | 🛠️ Technologies |
+|------------|---------------|------------------|
+| [**👨‍💼 Employee Manager**](https://github.com/YaanMark/Employee_Manager) | Full Stack CRUD application for employee management, allowing users to create, edit, view, and delete employee records through a modern interface. | HTML, CSS, JavaScript, Node.js, Express, MySQL |
+</div>
+
+<br>
+
+<div align="center">
+
+### 🌟 Currently Working On
+
+```txt
+🔹 Full Stack Applications
+🔹 RPG Systems & Game Design
+🔹 React & Next.js Projects
+🔹 API Development
+```
+
+</div>
+
+<br>
+
+<div align="center">
+
+---
+
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
+
+---
+
+### 📈 Development Journey
+
+```mermaid
+timeline
+
+    2025 : First web development projects
+    2026 : Advanced Projects
+```
+
+</div>
+
 
 <br/>
 <br/>
@@ -132,3 +195,11 @@ Hi! I'm Yan Marques, a 21-year-old Information Systems student. Passionate about
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YaanMark/YaanMark/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YaanMark/YaanMark/output/github-contribution-grid-snake.svg">
 </picture>
+
+---
+
+<div align="center">
+
+### 💜 "Turning ideas into reality, one line of code at a time."
+
+</div>
