@@ -121,7 +121,7 @@ Hi! I'm Yan Marques, a 21-year-old Information Systems student. Passionate about
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" 
 />
 
 
