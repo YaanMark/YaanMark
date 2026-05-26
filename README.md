@@ -155,6 +155,7 @@ Hi! I'm Yan Marques, a 21-year-old Information Systems student. Passionate about
 | 💼 Project | 📖 Description | 🛠️ Technologies |
 |------------|---------------|------------------|
 | [**👨‍💼 Employee Manager**](https://github.com/YaanMark/Employee_Manager) | Full Stack CRUD application for employee management, allowing users to create, edit, view, and delete employee records through a modern interface. | HTML, CSS, JavaScript, Node.js, Express, MySQL |
+| [**📝 To-Do List Fullstack**](https://github.com/YaanMark/to-do-list) |A complete task management system (To-Do List) built with a decoupled Full Stack architecture. This project allows users to perform complete **CRUD (Create, Read, Update, Delete)** operations on tasks through a clean, responsive interface integrated with a relational database.| HTML, CSS, JavaScript, Node.js, Express, MySQL, Prisma |
 </div>
 
 <br>
