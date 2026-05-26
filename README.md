@@ -161,16 +161,11 @@ Hi! I'm Yan Marques, a 21-year-old Information Systems student. Passionate about
 <br>
 
 <div align="center">
-
-### 🌟 Currently Working On
-
-```txt
-🔹 Full Stack Applications
+  <h3>🌟 Currently Working On</h3>
+  <pre><code>🔹 Full Stack Applications
 🔹 RPG Systems & Game Design
 🔹 React & Next.js Projects
-🔹 API Development
-```
-
+🔹 API Development</code></pre>
 </div>
 
 <br>
